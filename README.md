@@ -1,4 +1,4 @@
-**Hey Everyone**  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Your Own It's Me** [**Deepak**](https://linktr.ee/DeepakChourasiya) 
+**Hey Everyone**  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Your Own It's Me** [**Deepak ☺**](https://linktr.ee/DeepakChourasiya) 
 
 - 👋 Hi, I’m @YourOwnItsMeDHC
 - 👀 I’m interested in ...
