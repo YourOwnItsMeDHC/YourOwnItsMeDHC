@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=YourOwnItsMeDHC&style=flat-square)
 
 ## 📫 Say hello on: 
-<a href="https://www.linkedin.com/in/deepak-chourasiya-079204216/">
+<a href="https://www.linkedin.com/in/deepak-chourasiya-079204216/" target="_blank">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
  </a>
- <a href="https://twitter.com/DeepakC97495823">
+ <a href="https://twitter.com/DeepakC97495823" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
 
 
