@@ -1,11 +1,11 @@
 **Hey Everyone**  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> **Your Own It's Me** [**Deepak ☺**](https://linktr.ee/DeepakChourasiya) 
 
-- 👋 Hi, I’m @YourOwnItsMeDHC
+<!-- - 👋 Hi, I’m @YourOwnItsMeDHC
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+ -->
 <!---
 YourOwnItsMeDHC/YourOwnItsMeDHC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=YourOwnItsMeDHC&style=flat-square)
 
 ## 📫 Say hello on: 
-<a href="https://www.linkedin.com/in/deepak-chourasiya-079204216/" target="_blank">
+<a href="https://www.linkedin.com/in/deepak-chourasiya-079204216/">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
  </a>
- <a href="https://twitter.com/DeepakC97495823" target="_blank">
+ <a href="https://twitter.com/DeepakC97495823">
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
 
 
