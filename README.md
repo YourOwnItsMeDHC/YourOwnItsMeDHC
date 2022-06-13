@@ -12,7 +12,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+## 📈 Some of my GitHub stats:       
+![](https://komarev.com/ghpvc/?username=YourOwnItsMeDHC&style=flat-square)
 
+## 📫 Say hello on: 
+<a href="https://www.linkedin.com/in/deepak-chourasiya-079204216/">
+<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
+ </a>
+ <a href="https://twitter.com/DeepakC97495823">
+<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
 
 
 https://user-images.githubusercontent.com/95961231/154790267-782a91e3-4026-4b0e-9091-510a0a20f591.mp4
