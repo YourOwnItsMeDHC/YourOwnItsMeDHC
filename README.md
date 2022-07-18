@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px">My Coding Profile!
 
 <code> <a href="https://leetcode.com/deepakchourasiya7980/"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="LeetCode Profile"/></a> </code>
-<a href="https://leetcode.com/deepakchourasiya7980/">![LeetCode Badge](https://cp-logo.vercel.app/deepakchourasiya7980?logo=true)</a>
 
 
 
