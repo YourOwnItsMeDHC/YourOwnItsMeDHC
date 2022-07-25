@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## 📈 Some of my GitHub stats:       
+## 📈 Some of my GitHub stats:
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourOwnItsMeDHC.YourOwnItsMeDHC)
 ![](https://komarev.com/ghpvc/?username=YourOwnItsMeDHC&style=flat-square)
 
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px">My Coding Profile!
