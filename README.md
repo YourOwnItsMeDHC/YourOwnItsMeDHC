@@ -18,6 +18,13 @@ You can click the Preview link to take a look at your changes.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourOwnItsMeDHC.YourOwnItsMeDHC)
 ![](https://komarev.com/ghpvc/?username=YourOwnItsMeDHC&style=flat-square)
 
+
+![Deepak Chourasiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourOwnItsMeDHC&show_icons=true&theme=radical)
+
+<!-- [![Deepak Chourasiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourOwnItsMeDHC)](https://github.com/YourOwnItsMeDHC/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourOwnItsMeDHC&layout=donut-vertical)](https://github.com/YourOwnItsMeDHC/github-readme-stats)
+
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px">My Coding Profile!
 
 <code> <a href="https://leetcode.com/deepakchourasiya7980/"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="LeetCode Profile"/></a> </code>
